@@ -45,7 +45,7 @@ image size 155M with this dockerfile
 
 **build and run**
 
-`./build.sh Dockerfile-openjdk8-alpine springboot-alpine`
+`./build.sh Dockerfile-openjdk8-alpine springboot-docker`
 
 ### Ref
 
