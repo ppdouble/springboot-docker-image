@@ -1,6 +1,10 @@
 # springboot-docker-image
 springboot customized image
 
+### packaging source code
+
+`./mvnw package`
+
 ### base image openjdk:8-jdk-alpine
 
 ```text
