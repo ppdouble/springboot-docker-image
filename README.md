@@ -37,6 +37,16 @@ ENTRYPOINT ["java","-cp","app:app/lib/*","com/pxample/pemo/PemoApplication"]
 image size 155M with this dockerfile
 
 
+### Usage
+
+**packaging**
+
+`./prepare.sh`
+
+**build and run**
+
+`./build.sh Dockerfile-openjdk8-alpine springboot-alpine`
+
 ### Ref
 
 [Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
